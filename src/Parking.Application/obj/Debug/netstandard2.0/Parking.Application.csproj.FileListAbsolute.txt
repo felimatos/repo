@@ -1,0 +1,16 @@
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Application\obj\Debug\netstandard2.0\Parking.Application.csproj.CoreCompileInputs.cache
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Application\obj\Debug\netstandard2.0\Parking.Application.AssemblyInfoInputs.cache
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Application\obj\Debug\netstandard2.0\Parking.Application.AssemblyInfo.cs
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Application\bin\Debug\netstandard2.0\Parking.Application.deps.json
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Application\bin\Debug\netstandard2.0\Parking.Application.dll
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Application\bin\Debug\netstandard2.0\Parking.Application.pdb
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Application\bin\Debug\netstandard2.0\Parking.Domain.dll
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Application\bin\Debug\netstandard2.0\Parking.Dto.dll
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Application\bin\Debug\netstandard2.0\Parking.Infra.dll
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Application\bin\Debug\netstandard2.0\Parking.Domain.pdb
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Application\bin\Debug\netstandard2.0\Parking.Dto.pdb
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Application\bin\Debug\netstandard2.0\Parking.Infra.pdb
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Application\obj\Debug\netstandard2.0\Parking.Application.csprojAssemblyReference.cache
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Application\obj\Debug\netstandard2.0\Parking.Application.csproj.CopyComplete
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Application\obj\Debug\netstandard2.0\Parking.Application.dll
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Application\obj\Debug\netstandard2.0\Parking.Application.pdb

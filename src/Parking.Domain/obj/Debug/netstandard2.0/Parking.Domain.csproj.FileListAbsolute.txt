@@ -1,0 +1,12 @@
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Domain\obj\Debug\netstandard2.0\Parking.Domain.csprojAssemblyReference.cache
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Domain\obj\Debug\netstandard2.0\Parking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Domain\obj\Debug\netstandard2.0\Parking.Domain.AssemblyInfoInputs.cache
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Domain\obj\Debug\netstandard2.0\Parking.Domain.AssemblyInfo.cs
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Domain\bin\Debug\netstandard2.0\Parking.Domain.deps.json
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Domain\bin\Debug\netstandard2.0\Parking.Domain.dll
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Domain\bin\Debug\netstandard2.0\Parking.Domain.pdb
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Domain\bin\Debug\netstandard2.0\Parking.Dto.dll
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Domain\bin\Debug\netstandard2.0\Parking.Dto.pdb
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Domain\obj\Debug\netstandard2.0\Parking.Domain.csproj.CopyComplete
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Domain\obj\Debug\netstandard2.0\Parking.Domain.dll
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Domain\obj\Debug\netstandard2.0\Parking.Domain.pdb

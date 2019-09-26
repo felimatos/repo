@@ -1,0 +1,17 @@
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Web\bin\Debug\netcoreapp2.1\Parking.Web.deps.json
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Web\bin\Debug\netcoreapp2.1\Parking.Web.runtimeconfig.json
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Web\bin\Debug\netcoreapp2.1\Parking.Web.runtimeconfig.dev.json
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Web\bin\Debug\netcoreapp2.1\Parking.Web.dll
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Web\obj\Debug\netcoreapp2.1\Parking.Web.csprojAssemblyReference.cache
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Web\obj\Debug\netcoreapp2.1\Parking.Web.csproj.CoreCompileInputs.cache
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Web\obj\Debug\netcoreapp2.1\Parking.Web.RazorAssemblyInfo.cache
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Web\obj\Debug\netcoreapp2.1\Parking.Web.RazorAssemblyInfo.cs
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Web\obj\Debug\netcoreapp2.1\Parking.Web.AssemblyInfoInputs.cache
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Web\obj\Debug\netcoreapp2.1\Parking.Web.AssemblyInfo.cs
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Web\obj\Debug\netcoreapp2.1\Parking.Web.RazorTargetAssemblyInfo.cache
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Web\bin\Debug\netcoreapp2.1\Parking.Web.pdb
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Web\bin\Debug\netcoreapp2.1\Parking.Domain.dll
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Web\bin\Debug\netcoreapp2.1\Parking.Domain.pdb
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Web\obj\Debug\netcoreapp2.1\Parking.Web.csproj.CopyComplete
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Web\obj\Debug\netcoreapp2.1\Parking.Web.dll
+C:\Users\felipe.vmatos\Dropbox (Pessoal)\ProjetosDotNet\SlnParking\Parking.Web\obj\Debug\netcoreapp2.1\Parking.Web.pdb
